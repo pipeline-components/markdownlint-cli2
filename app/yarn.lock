@@ -201,10 +201,10 @@ markdownlint-cli2-formatter-junit@^0.0.6:
   dependencies:
     junit-report-builder "3.0.0"
 
-markdownlint-cli2-formatter-pretty@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-pretty/-/markdownlint-cli2-formatter-pretty-0.0.3.tgz#e2e2b6667591f33304b90159a32c3018729aca25"
-  integrity sha512-J+j4TwP/up97N7eEwq3vhhs5GNWENLaBGZZU+H2XodshOl9eQD8BYHOUq/8mN9t0nz7jFj79jQCBMgJvHL9rKQ==
+markdownlint-cli2-formatter-pretty@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-pretty/-/markdownlint-cli2-formatter-pretty-0.0.4.tgz#b77c5ceb9e83741ff5ab68eb11eb48b76c89b2d5"
+  integrity sha512-Zz903THP1PrmC6k4Rm8jBegVcbsCeVmMhH/XdFzd8bL2rS60dRVev7CXZqbdGBeiCcmdut0EFMPk3huAhztcuQ==
   dependencies:
     chalk "5.0.0"
     terminal-link "3.0.0"
