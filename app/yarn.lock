@@ -174,10 +174,10 @@ markdown-it@13.0.1:
     mdurl "^1.0.1"
     uc.micro "^1.0.5"
 
-markdownlint-cli2-formatter-codequality@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-codequality/-/markdownlint-cli2-formatter-codequality-0.0.3.tgz#d1d20ea5cf1ff04c021998543226943e03ad7a5a"
-  integrity sha512-WV9jF5zquatPfBxYgCf/Uq44EEU6qkW9yIC0K5J3LtbLJofvI8AERc7V6eCfKJqqAOoc3VqPSFa6cFRCNpD2Sg==
+markdownlint-cli2-formatter-codequality@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-codequality/-/markdownlint-cli2-formatter-codequality-0.0.4.tgz#7ca74e2a768678d94fcb120bf96335318200cdad"
+  integrity sha512-neHZBR0NCnhsUk0PycNrKzmuWR8fVT0b7JKAqynS9lgjEOUTqvR57F27DLsEzBS7Ik7lbIOkv6Rcq9rb0WafsA==
 
 markdownlint-cli2-formatter-default@0.0.3, markdownlint-cli2-formatter-default@^0.0.3:
   version "0.0.3"
