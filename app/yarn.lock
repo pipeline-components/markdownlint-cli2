@@ -210,9 +210,9 @@ markdownlint-cli2-formatter-summarize@^0.0.6:
   integrity sha512-s96zCQ/CSSJTnT9G6VptWv0GzLspOXMq5wtMKZ8CRApfUHULwCnnN1NnpBl10WptJL/SJ6CiQqC9cxhfXZRA6A==
 
 markdownlint-cli2@^0.8.0:
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2/-/markdownlint-cli2-0.8.0.tgz#5c9c4ac6276b35c1e73157108397a8df651be433"
-  integrity sha512-HCRZPTTM5MS3O1fmZnuK+jAGXDrSmsE8KBcdfdoTHYMq7iGv0IGb5A/rOiQ1lgBuDAVN8cypqrAnMEpCfKak+w==
+  version "0.8.1"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2/-/markdownlint-cli2-0.8.1.tgz#84b7c2bb900938d947b1c44bfa940d78656132f8"
+  integrity sha512-y0Siwt+RApKxSSb0CT9p7z1DcAO+ncjrB9IpC/jflJRIet4namCFmxLTbfBBQdPF6EntPk5yyXKe7vcoPGlnXw==
   dependencies:
     globby "13.1.4"
     markdownlint "0.29.0"
