@@ -134,10 +134,10 @@ is-number@^7.0.0:
   resolved "https://registry.yarnpkg.com/is-number/-/is-number-7.0.0.tgz#7535345b896734d5f80c4d06c50955527a14f12b"
   integrity sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==
 
-junit-report-builder@3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-3.0.1.tgz#8501ad56c62b801334d8903860750f699a967150"
-  integrity sha512-B8AZ2q24iGwPM3j/ZHc9nD0BY1rKhcnWCA1UvT8mhHfR8Vo/HTtg3ojMyo55BgctqQGZG7H8z0+g+mEUc32jgg==
+junit-report-builder@3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-3.1.0.tgz#3a806c62aef81ca4a630c957340c0f16010d8ebd"
+  integrity sha512-uKcPKbjl/v3pqQUuQuCehmuObAb9adZiZleKp0JijMmKPpBh5rl9YvyPjVqzaLkA0dROnMnQvjXQF37VbYoofw==
   dependencies:
     date-format "4.0.3"
     lodash "^4.17.21"
@@ -189,12 +189,12 @@ markdownlint-cli2-formatter-json@^0.0.7:
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-json/-/markdownlint-cli2-formatter-json-0.0.7.tgz#9ece3529bc0e721e4c117bc063259c672373d449"
   integrity sha512-mTFzr7cgXF2IdUGq1X2DRWSKcOO/hrCDL9eDBqwdODXR55Xy1ivuFbvNAiVv3ux1zwZj2DKWzSQTCssJkHCQGw==
 
-markdownlint-cli2-formatter-junit@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.7.tgz#fd8873d3ff4fe6fb6626ece8c2919ed87cee658c"
-  integrity sha512-M1TkJ1ZWlJE3mqs4wfeuXVlcHjp+HZJnB3RfH3PtOcZ74F6OBSgMiYpO0Zm8k8OuaXRhTadU5MB1yfmvFgaS/Q==
+markdownlint-cli2-formatter-junit@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.8.tgz#545f0314b3f7b4ad05939c1ed5638dae6b515be7"
+  integrity sha512-Cz3RkhRnQvblJ9AAF9YmW549adZAF2tzWhwHnPv6Cgd1M7SpKCfYZ7Qo3+UAZcZj/twGtaJInL3FcNprMSH4nA==
   dependencies:
-    junit-report-builder "3.0.1"
+    junit-report-builder "3.1.0"
 
 markdownlint-cli2-formatter-pretty@^0.0.5:
   version "0.0.5"
