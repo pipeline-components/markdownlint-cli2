@@ -82,13 +82,13 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[contributors]: https://gitlab.com/pipeline-components/markdownlint-cli2/-/graphs/master
+[contributors]: https://gitlab.com/pipeline-components/markdownlint-cli2/-/graphs/main
 [dockerhub]: https://hub.docker.com/r/pipelinecomponents/markdownlint-cli2
 [license-shield]: https://img.shields.io/badge/License-MIT-green.svg
 [mjrider]: https://gitlab.com/mjrider
 [discord]: https://discord.gg/vhxWFfP
 [gitlabci-shield]: https://img.shields.io/gitlab/pipeline/pipeline-components/markdownlint-cli2.svg
-[gitlabci]: https://gitlab.com/pipeline-components/markdownlint-cli2/-/commits/master
+[gitlabci]: https://gitlab.com/pipeline-components/markdownlint-cli2/-/commits/main
 [issue]: https://gitlab.com/pipeline-components/markdownlint-cli2/issues
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
