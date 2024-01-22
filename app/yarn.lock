@@ -133,6 +133,11 @@ is-number@^7.0.0:
   resolved "https://registry.yarnpkg.com/is-number/-/is-number-7.0.0.tgz#7535345b896734d5f80c4d06c50955527a14f12b"
   integrity sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==
 
+jsonc-parser@3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-3.2.0.tgz#31ff3f4c2b9793f89c67212627c51c6394f88e76"
+  integrity sha512-gfFQZrcTc8CnKXp6Y4/CBT3fTc0OVuDofpre4aEeEpSBPV5X5v4+Vmx+8snU7RLPrNHPKSgLxGo9YuQzz20o+w==
+
 junit-report-builder@3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-3.1.0.tgz#3a806c62aef81ca4a630c957340c0f16010d8ebd"
@@ -210,15 +215,15 @@ markdownlint-cli2-formatter-summarize@^0.0.6:
   integrity sha512-s96zCQ/CSSJTnT9G6VptWv0GzLspOXMq5wtMKZ8CRApfUHULwCnnN1NnpBl10WptJL/SJ6CiQqC9cxhfXZRA6A==
 
 markdownlint-cli2@^0.12.0:
-  version "0.12.0"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2/-/markdownlint-cli2-0.12.0.tgz#22ec269dc341979b71e029e1ece2974f2b60ac53"
-  integrity sha512-5nddNaPY1WC7BE1mkF8fiEkRDW8XbODwqYBPL3eyvFh7tLk74no+P8JRbCjghF7ozahCW5pF0TZ3ZS30m9H1Eg==
+  version "0.12.1"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2/-/markdownlint-cli2-0.12.1.tgz#9743ded8ee65cf5704b21deb24259d3e7cc242c4"
+  integrity sha512-RcK+l5FjJEyrU3REhrThiEUXNK89dLYNJCYbvOUKypxqIGfkcgpz8g08EKqhrmUbYfYoLC5nEYQy53NhJSEtfQ==
   dependencies:
     globby "14.0.0"
+    jsonc-parser "3.2.0"
     markdownlint "0.33.0"
     markdownlint-cli2-formatter-default "0.0.4"
     micromatch "4.0.5"
-    strip-json-comments "5.0.1"
     yaml "2.3.4"
 
 markdownlint-micromark@0.1.8:
@@ -293,11 +298,6 @@ slash@^5.1.0:
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-5.1.0.tgz#be3adddcdf09ac38eebe8dcdc7b1a57a75b095ce"
   integrity sha512-ZA6oR3T/pEyuqwMgAKT0/hAv8oAXckzbkmR0UkUosQ+Mc4RxGoJkRmwHgHufaenlyAgE1Mxgpdcrf75y6XcnDg==
-
-strip-json-comments@5.0.1:
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-5.0.1.tgz#0d8b7d01b23848ed7dbdf4baaaa31a8250d8cfa0"
-  integrity sha512-0fk9zBqO67Nq5M/m45qHCJxylV/DhBlIOVExqgOMiCCrzrhU6tCibRXNqE3jwJLftzE9SNuZtYbpzcO+i9FiKw==
 
 supports-color@^7.0.0:
   version "7.2.0"
