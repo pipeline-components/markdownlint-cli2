@@ -138,10 +138,10 @@ jsonc-parser@3.2.0:
   resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-3.2.0.tgz#31ff3f4c2b9793f89c67212627c51c6394f88e76"
   integrity sha512-gfFQZrcTc8CnKXp6Y4/CBT3fTc0OVuDofpre4aEeEpSBPV5X5v4+Vmx+8snU7RLPrNHPKSgLxGo9YuQzz20o+w==
 
-junit-report-builder@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-3.1.0.tgz#3a806c62aef81ca4a630c957340c0f16010d8ebd"
-  integrity sha512-uKcPKbjl/v3pqQUuQuCehmuObAb9adZiZleKp0JijMmKPpBh5rl9YvyPjVqzaLkA0dROnMnQvjXQF37VbYoofw==
+junit-report-builder@3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-3.2.1.tgz#93067512353c3d47d2dd5913e695b32d3262096c"
+  integrity sha512-IMCp5XyDQ4YESDE4Za7im3buM0/7cMnRfe17k2X8B05FnUl9vqnaliX6cgOEmPIeWKfJrEe/gANRq/XgqttCqQ==
   dependencies:
     date-format "4.0.3"
     lodash "^4.17.21"
@@ -194,12 +194,12 @@ markdownlint-cli2-formatter-json@^0.0.7:
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-json/-/markdownlint-cli2-formatter-json-0.0.7.tgz#9ece3529bc0e721e4c117bc063259c672373d449"
   integrity sha512-mTFzr7cgXF2IdUGq1X2DRWSKcOO/hrCDL9eDBqwdODXR55Xy1ivuFbvNAiVv3ux1zwZj2DKWzSQTCssJkHCQGw==
 
-markdownlint-cli2-formatter-junit@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.8.tgz#545f0314b3f7b4ad05939c1ed5638dae6b515be7"
-  integrity sha512-Cz3RkhRnQvblJ9AAF9YmW549adZAF2tzWhwHnPv6Cgd1M7SpKCfYZ7Qo3+UAZcZj/twGtaJInL3FcNprMSH4nA==
+markdownlint-cli2-formatter-junit@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.9.tgz#b953076ec092d8b93f63d666aae9f4ab23fdf6d2"
+  integrity sha512-x6Ku+MiiishoI0HHjHIU7l8yug0L/ysjvVXulX2COKL1vifj91k+Q5NdyE28Q5c2W0KulpDrZeayg4mZX4LK8A==
   dependencies:
-    junit-report-builder "3.1.0"
+    junit-report-builder "3.2.1"
 
 markdownlint-cli2-formatter-pretty@^0.0.5:
   version "0.0.5"
