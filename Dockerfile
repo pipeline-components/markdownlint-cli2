@@ -6,7 +6,7 @@ FROM pipelinecomponents/base-entrypoint:0.5.0 as entrypoint
 # ==============================================================================
 # Component specific
 # ------------------------------------------------------------------------------
-FROM node:21.6.2-alpine
+FROM node:21.7.1-alpine
 WORKDIR /app/
 COPY app /app/
 ENV PATH "$PATH:/app/node_modules/.bin/"
