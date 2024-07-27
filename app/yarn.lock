@@ -52,11 +52,6 @@ chalk@5.3.0:
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.3.0.tgz#67c20a7ebef70e7f3970a01f90fa210cb6860385"
   integrity sha512-dLitG79d+GV1Nb/VYcCDFivJeK1hiukt9QjRNVOsUtTy1rR1YJsmpGGTZ3qJos+uw7WmWF4wUwBd9jxjocFC2w==
 
-date-format@4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/date-format/-/date-format-4.0.3.tgz#f63de5dc08dc02efd8ef32bf2a6918e486f35873"
-  integrity sha512-7P3FyqDcfeznLZp2b+OMitV9Sz2lUnsT87WaTat9nVwqsBkTzPG3lPLNwW3en6F4pHUiWzr6vb8CLhjdK9bcxQ==
-
 entities@^4.4.0:
   version "4.5.0"
   resolved "https://registry.yarnpkg.com/entities/-/entities-4.5.0.tgz#5d268ea5e7113ec74c4d033b79ea5a35a488fb48"
@@ -145,12 +140,11 @@ jsonc-parser@3.2.1:
   resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-3.2.1.tgz#031904571ccf929d7670ee8c547545081cb37f1a"
   integrity sha512-AilxAyFOAcK5wA1+LeaySVBrHsGQvUFCDWXKpZjzaL0PqW+xfBOttn8GNtWKFWqneyMZj41MWF9Kl6iPWLwgOA==
 
-junit-report-builder@3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-3.2.1.tgz#93067512353c3d47d2dd5913e695b32d3262096c"
-  integrity sha512-IMCp5XyDQ4YESDE4Za7im3buM0/7cMnRfe17k2X8B05FnUl9vqnaliX6cgOEmPIeWKfJrEe/gANRq/XgqttCqQ==
+junit-report-builder@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-4.0.0.tgz#d1e6696df71334c0f815bd7d6f86ce8168a8c4ab"
+  integrity sha512-Wmr5TdZVne2L7D2ZIOvC0iGQNbvAxK+hSStmfjd+Qfdgr0pkd/ZwZlezIRMeWfaqJorP/+MYSqYcPbaWpo+fJQ==
   dependencies:
-    date-format "4.0.3"
     lodash "^4.17.21"
     make-dir "^3.1.0"
     xmlbuilder "^15.1.1"
@@ -201,12 +195,12 @@ markdownlint-cli2-formatter-json@^0.0.7:
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-json/-/markdownlint-cli2-formatter-json-0.0.7.tgz#9ece3529bc0e721e4c117bc063259c672373d449"
   integrity sha512-mTFzr7cgXF2IdUGq1X2DRWSKcOO/hrCDL9eDBqwdODXR55Xy1ivuFbvNAiVv3ux1zwZj2DKWzSQTCssJkHCQGw==
 
-markdownlint-cli2-formatter-junit@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.9.tgz#b953076ec092d8b93f63d666aae9f4ab23fdf6d2"
-  integrity sha512-x6Ku+MiiishoI0HHjHIU7l8yug0L/ysjvVXulX2COKL1vifj91k+Q5NdyE28Q5c2W0KulpDrZeayg4mZX4LK8A==
+markdownlint-cli2-formatter-junit@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.10.tgz#2d7c1fa2396a1c21437588e049f65e3c76f57b5e"
+  integrity sha512-0V70E3aKkT6vD80QPkbmuOyf66j1lvo5EwVVfWz15hgZcC3JgxuRihoQbQC1NEKhYkeSQpYRSt+JRIaKWTHBhw==
   dependencies:
-    junit-report-builder "3.2.1"
+    junit-report-builder "4.0.0"
 
 markdownlint-cli2-formatter-pretty@^0.0.6:
   version "0.0.6"
