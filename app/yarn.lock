@@ -140,10 +140,10 @@ jsonc-parser@3.2.1:
   resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-3.2.1.tgz#031904571ccf929d7670ee8c547545081cb37f1a"
   integrity sha512-AilxAyFOAcK5wA1+LeaySVBrHsGQvUFCDWXKpZjzaL0PqW+xfBOttn8GNtWKFWqneyMZj41MWF9Kl6iPWLwgOA==
 
-junit-report-builder@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-4.0.0.tgz#d1e6696df71334c0f815bd7d6f86ce8168a8c4ab"
-  integrity sha512-Wmr5TdZVne2L7D2ZIOvC0iGQNbvAxK+hSStmfjd+Qfdgr0pkd/ZwZlezIRMeWfaqJorP/+MYSqYcPbaWpo+fJQ==
+junit-report-builder@5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-5.0.0.tgz#85bc8375e81dbba1a3b461c4eccf4ca6c883e864"
+  integrity sha512-mWPsMQ84WXVQRgD8WuIPpxhyDKSGBAY5EBKqoJQBjdRltKHVzgbLhMGwzTria6SECiWjjqBjnlAN7qc0Cdiupw==
   dependencies:
     lodash "^4.17.21"
     make-dir "^3.1.0"
@@ -195,12 +195,12 @@ markdownlint-cli2-formatter-json@^0.0.7:
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-json/-/markdownlint-cli2-formatter-json-0.0.7.tgz#9ece3529bc0e721e4c117bc063259c672373d449"
   integrity sha512-mTFzr7cgXF2IdUGq1X2DRWSKcOO/hrCDL9eDBqwdODXR55Xy1ivuFbvNAiVv3ux1zwZj2DKWzSQTCssJkHCQGw==
 
-markdownlint-cli2-formatter-junit@^0.0.10:
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.10.tgz#2d7c1fa2396a1c21437588e049f65e3c76f57b5e"
-  integrity sha512-0V70E3aKkT6vD80QPkbmuOyf66j1lvo5EwVVfWz15hgZcC3JgxuRihoQbQC1NEKhYkeSQpYRSt+JRIaKWTHBhw==
+markdownlint-cli2-formatter-junit@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.11.tgz#0d8f57d44364cf5be7dec990fdf2ac3b1f8ea4ef"
+  integrity sha512-6H1LsIedPxJXsrbvk/jJzF9GiiIZD5l/djXCVnQ5qiPSkKXXQMN7uIeEGId3Kwmm6pzPEKJ7g6d+WKn0esPArw==
   dependencies:
-    junit-report-builder "4.0.0"
+    junit-report-builder "5.0.0"
 
 markdownlint-cli2-formatter-pretty@^0.0.6:
   version "0.0.6"
