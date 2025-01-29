@@ -90,7 +90,7 @@ SOFTWARE.
 [gitlabci-shield]: https://img.shields.io/gitlab/pipeline/pipeline-components/markdownlint-cli2.svg
 [gitlabci]: https://gitlab.com/pipeline-components/markdownlint-cli2/-/commits/main
 [issue]: https://gitlab.com/pipeline-components/markdownlint-cli2/issues
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2023.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [pulls-shield]: https://img.shields.io/docker/pulls/pipelinecomponents/markdownlint-cli2.svg
 [semver]: http://semver.org/spec/v2.0.0.html
