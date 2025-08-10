@@ -1,13 +1,14 @@
 # Pipeline Components: Markdownlint-cli2
 
+[![][gitlab-repo-shield]][repository]
 ![Project Stage][project-stage-shield]
 ![Project Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE)
-
 [![GitLab CI][gitlabci-shield]][gitlabci]
 
 ## Docker status
 
+[![Image Size][size-shield]][dockerhub]
 [![Docker Pulls][pulls-shield]][dockerhub]
 
 ## Usage
@@ -44,9 +45,9 @@ You could also [open an issue here][issue]
 This is an active open-source project. We are always open to people who want to
 use the code or contribute to it.
 
-We've set up a separate document for our [contribution guidelines](CONTRIBUTING.md).
+We've set up a separate document for our [contribution guidelines][contributing-link].
 
-Thank you for being involved! :heart_eyes:
+Thank you for being involved! 😍
 
 ## Authors & contributors
 
@@ -60,42 +61,26 @@ check [the contributor's page][contributors].
 
 ## License
 
-MIT License
+This project is licensed under the [MIT License](./LICENSE) by [Robbert Müller][mjrider].
 
-Copyright (c) 2023 Robbert Müller
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
+[contributing-link]: https://pipeline-components.dev/contributing/
 [contributors]: https://gitlab.com/pipeline-components/markdownlint-cli2/-/graphs/main
-[dockerhub]: https://hub.docker.com/r/pipelinecomponents/markdownlint-cli2
-[license-shield]: https://img.shields.io/badge/License-MIT-green.svg
-[mjrider]: https://gitlab.com/mjrider
 [discord]: https://discord.gg/vhxWFfP
+[dockerhub]: https://hub.docker.com/r/pipelinecomponents/markdownlint-cli2
+[frenck]: https://github.com/frenck
+[gitlab-repo-shield]: https://img.shields.io/badge/Source-Gitlab-orange.svg?logo=gitlab
 [gitlabci-shield]: https://img.shields.io/gitlab/pipeline/pipeline-components/markdownlint-cli2.svg
 [gitlabci]: https://gitlab.com/pipeline-components/markdownlint-cli2/-/commits/main
-[issue]: https://gitlab.com/pipeline-components/markdownlint-cli2/issues
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
-[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
-[pulls-shield]: https://img.shields.io/docker/pulls/pipelinecomponents/markdownlint-cli2.svg
-[semver]: http://semver.org/spec/v2.0.0.html
-
-[frenck]: https://github.com/frenck
 [hassio-addons]: https://github.com/hassio-addons
-[markdownlint-cli2]: https://github.com/DavidAnson/markdownlint/blob/main/README.md#rules--aliases
+[issue]: https://gitlab.com/pipeline-components/markdownlint-cli2/issues
+[license-shield]: https://img.shields.io/badge/License-MIT-green.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2025.svg
+[mjrider]: https://gitlab.com/mjrider
+[project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
+[pulls-shield]: https://img.shields.io/docker/pulls/pipelinecomponents/markdownlint-cli2.svg?logo=docker
+[repository]: https://gitlab.com/pipeline-components/markdownlint-cli2/
+[semver]: http://semver.org/spec/v2.0.0.html
+[size-shield]: https://img.shields.io/docker/image-size/pipelinecomponents/markdownlint-cli2/.svg?logo=docker
+
 [markdownlint-cli2-rules]: https://github.com/DavidAnson/markdownlint/blob/main/README.md#rules--aliases
+[markdownlint-cli2]: https://github.com/DavidAnson/markdownlint/blob/main/README.md#rules--aliases
