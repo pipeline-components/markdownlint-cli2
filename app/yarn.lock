@@ -69,10 +69,10 @@ braces@^3.0.3:
   dependencies:
     fill-range "^7.1.1"
 
-chalk@5.4.1:
-  version "5.4.1"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.4.1.tgz#1b48bf0963ec158dce2aacf69c093ae2dd2092d8"
-  integrity sha512-zgVZuo2WcZgfUEmsn6eO3kINexW8RAE4maiQ8QNs8CtpPCSyMiYsULR3HQYkm3w8FIA3SberyMJMSldGsW+U3w==
+chalk@5.6.2:
+  version "5.6.2"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.6.2.tgz#b1238b6e23ea337af71c7f8a295db5af0c158aea"
+  integrity sha512-7NzBL0rN6fMUW+f7A6Io4h40qQlG+xGmtMxfbnH/K7TAtt8JQWVQK+6g0UXKMeVJoyV5EkkNsErQ8pVD3bLHbA==
 
 character-entities-legacy@^3.0.0:
   version "3.0.0"
@@ -174,10 +174,10 @@ globby@14.1.0:
     slash "^5.1.0"
     unicorn-magic "^0.3.0"
 
-has-flag@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
-  integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
+has-flag@^5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-5.0.1.tgz#5483db2ae02a472d1d0691462fc587d1843cd940"
+  integrity sha512-CsNUt5x9LUdx6hnk/E2SZLsDyvfqANZSUq4+D3D8RzDJ2M+HDTIkF60ibS1vHaK55vzgiZw1bEPFG9yH7l33wA==
 
 ignore@^7.0.3:
   version "7.0.5"
@@ -305,13 +305,13 @@ markdownlint-cli2-formatter-junit@^0.0.13:
   dependencies:
     junit-report-builder "5.1.1"
 
-markdownlint-cli2-formatter-pretty@^0.0.8:
-  version "0.0.8"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-pretty/-/markdownlint-cli2-formatter-pretty-0.0.8.tgz#643b3c6450a852efddd9491bc6dac1f3c7dddc08"
-  integrity sha512-pljANIeNaT2Vy60dkFDZ75+dhEhq/OB8DnM2HlmweOiLBrIYW8jAOCQnPTHhYfwClWZkiV//iRWjVL+rR4LQhA==
+markdownlint-cli2-formatter-pretty@^0.0.9:
+  version "0.0.9"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-pretty/-/markdownlint-cli2-formatter-pretty-0.0.9.tgz#021a1596698fde9d384c1ee8450af6805d4f80d8"
+  integrity sha512-5zuqYonXTUu7yLP+f0ERcYu3c6tlWJVMkp+ovo6RNEvy8NEpkdUXRBAObbuJVSE3bJcaqderebfLSlEdUK8HDg==
   dependencies:
-    chalk "5.4.1"
-    terminal-link "4.0.0"
+    chalk "5.6.2"
+    terminal-link "5.0.0"
 
 markdownlint-cli2-formatter-summarize@^0.0.7:
   version "0.0.7"
@@ -668,28 +668,26 @@ slash@^5.1.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-5.1.0.tgz#be3adddcdf09ac38eebe8dcdc7b1a57a75b095ce"
   integrity sha512-ZA6oR3T/pEyuqwMgAKT0/hAv8oAXckzbkmR0UkUosQ+Mc4RxGoJkRmwHgHufaenlyAgE1Mxgpdcrf75y6XcnDg==
 
-supports-color@^7.0.0:
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-7.2.0.tgz#1b7dcdcb32b8138801b3e478ba6a51caa89648da"
-  integrity sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw==
-  dependencies:
-    has-flag "^4.0.0"
+supports-color@^10.0.0:
+  version "10.2.2"
+  resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-10.2.2.tgz#466c2978cc5cd0052d542a0b576461c2b802ebb4"
+  integrity sha512-SS+jx45GF1QjgEXQx4NJZV9ImqmO2NPz5FNsIHrsDjh2YsHnawpan7SNQ1o8NuhrbHZy9AZhIoCUiCeaW/C80g==
 
-supports-hyperlinks@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/supports-hyperlinks/-/supports-hyperlinks-3.2.0.tgz#b8e485b179681dea496a1e7abdf8985bd3145461"
-  integrity sha512-zFObLMyZeEwzAoKCyu1B91U79K2t7ApXuQfo8OuxwXLDgcKxuwM+YvcbIhm6QWqz7mHUH1TVytR1PwVVjEuMig==
+supports-hyperlinks@^4.1.0:
+  version "4.3.0"
+  resolved "https://registry.yarnpkg.com/supports-hyperlinks/-/supports-hyperlinks-4.3.0.tgz#bf2081f57031225d2afb0800d89fa46d5ea74419"
+  integrity sha512-i6sWEzuwadSlcr2mOnb0ktlIl+K5FVxsPXmoPfknDd2gyw4ZBIAZ5coc0NQzYqDdEYXMHy8NaY9rWwa1Q1myiQ==
   dependencies:
-    has-flag "^4.0.0"
-    supports-color "^7.0.0"
+    has-flag "^5.0.1"
+    supports-color "^10.0.0"
 
-terminal-link@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/terminal-link/-/terminal-link-4.0.0.tgz#5f3e50329420fad97d07d624f7df1851d82963f1"
-  integrity sha512-lk+vH+MccxNqgVqSnkMVKx4VLJfnLjDBGzH16JVZjKE2DoxP57s6/vt6JmXV5I3jBcfGrxNrYtC+mPtU7WJztA==
+terminal-link@5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/terminal-link/-/terminal-link-5.0.0.tgz#f0447c8940418ab49b9b9bbc47a4ad2fa8ba81e7"
+  integrity sha512-qFAy10MTMwjzjU8U16YS4YoZD+NQLHzLssFMNqgravjbvIPNiqkGFR4yjhJfmY9R5OFU7+yHxc6y+uGHkKwLRA==
   dependencies:
     ansi-escapes "^7.0.0"
-    supports-hyperlinks "^3.2.0"
+    supports-hyperlinks "^4.1.0"
 
 to-regex-range@^5.0.1:
   version "5.0.1"
