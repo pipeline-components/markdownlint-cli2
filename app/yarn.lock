@@ -288,10 +288,15 @@ markdownlint-cli2-formatter-codequality@^0.0.7:
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-codequality/-/markdownlint-cli2-formatter-codequality-0.0.7.tgz#e5b4f185115f1837854c99b67a19d9bea6768332"
   integrity sha512-7DmWN/l3SHqCZn8iWik1qTkJq6p2j12Snmt94uNhD8dkZyR18k1rkRFaM6e04AyNAww+frNuUAupVHmnNMspPQ==
 
-markdownlint-cli2-formatter-default@0.0.5, markdownlint-cli2-formatter-default@^0.0.5:
+markdownlint-cli2-formatter-default@0.0.5:
   version "0.0.5"
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-default/-/markdownlint-cli2-formatter-default-0.0.5.tgz#b8fde4e127f9a9c0596e6d45eed352dd0aa0ff98"
   integrity sha512-4XKTwQ5m1+Txo2kuQ3Jgpo/KmnG+X90dWt4acufg6HVGadTUG5hzHF/wssp9b5MBYOMCnZ9RMPaU//uHsszF8Q==
+
+markdownlint-cli2-formatter-default@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-default/-/markdownlint-cli2-formatter-default-0.0.6.tgz#aa6db33b2fafc0801f4bbddeedafc19a2499a62c"
+  integrity sha512-VVDGKsq9sgzu378swJ0fcHfSicUnMxnL8gnLm/Q4J/xsNJ4e5bA6lvAz7PCzIl0/No0lHyaWdqVD2jotxOSFMQ==
 
 markdownlint-cli2-formatter-json@^0.0.9:
   version "0.0.9"
