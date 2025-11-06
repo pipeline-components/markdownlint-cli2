@@ -313,10 +313,10 @@ markdownlint-cli2-formatter-pretty@^0.0.9:
     chalk "5.6.2"
     terminal-link "5.0.0"
 
-markdownlint-cli2-formatter-summarize@^0.0.7:
-  version "0.0.7"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-summarize/-/markdownlint-cli2-formatter-summarize-0.0.7.tgz#82a6584b8b71e86a32af2d1e85d0259b68469923"
-  integrity sha512-WYIuEen9A7B+OkTeAF8peRWysHKYUGYZQ8EIGAIXUm21S+UnPwxgz1EgUDpkvGlcbD/XS4474v8cnOI5so2MvQ==
+markdownlint-cli2-formatter-summarize@^0.0.8:
+  version "0.0.8"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-summarize/-/markdownlint-cli2-formatter-summarize-0.0.8.tgz#2baad58bd1b8dcbda89d8efabf0f1c7212581053"
+  integrity sha512-Uif/EDMzqbbRVb9I67botIQnFluw+XGuqBd+m8n4jo95MegKOA+CJm/QlJCqUDMDBDnnYnyR6SaDlCyMkBUcXA==
 
 markdownlint-cli2@^0.18.0:
   version "0.18.1"
