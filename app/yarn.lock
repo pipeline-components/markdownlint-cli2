@@ -298,10 +298,10 @@ markdownlint-cli2-formatter-json@^0.0.9:
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-json/-/markdownlint-cli2-formatter-json-0.0.9.tgz#cb2477293490d87a3fb580f3e293361149363827"
   integrity sha512-f8Hp3YD51RgrK7k2nh0OYXt6Jq3kT9Cs3FIaI+BTDdMywplfMNkiBb6VTijL0ZrpOpd9YXa4VER91DL1DdyMgA==
 
-markdownlint-cli2-formatter-junit@^0.0.13:
-  version "0.0.13"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.13.tgz#5812d1ee70e0147187463095fc56fcd8ff955126"
-  integrity sha512-kcMhBxKPiidhtRqoS4YWnhVObEWnKFad0y09Hz7np3bA52ztL7QUUFVxrTITqTaH2KMqK+/qH+ErzA9IsOrYTQ==
+markdownlint-cli2-formatter-junit@^0.0.14:
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.14.tgz#62856f839daf0d922b59d3ddc221dcbe51484dbb"
+  integrity sha512-q+aScBwPMKk97WiPSZ9f+Un4PvGkbII5LRVhnGX5yWYr8iPbaHqfNASaNl1om92ceJlS3OD+04ghtR3K2DZR3w==
   dependencies:
     junit-report-builder "5.1.1"
 
