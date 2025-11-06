@@ -283,10 +283,10 @@ markdown-it@14.1.0:
     punycode.js "^2.3.1"
     uc.micro "^2.1.0"
 
-markdownlint-cli2-formatter-codequality@^0.0.6:
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-codequality/-/markdownlint-cli2-formatter-codequality-0.0.6.tgz#7859d34af4f18cad3491f08e2bf80114a70b9666"
-  integrity sha512-31vsIBLTT6iZvfmJL2ZbbH04uUimfInUgwe3ZMrqjIdYfBjDcd70w+QmlSXhnGLas2bB8gzJrIR6BARvWO55Rg==
+markdownlint-cli2-formatter-codequality@^0.0.7:
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-codequality/-/markdownlint-cli2-formatter-codequality-0.0.7.tgz#e5b4f185115f1837854c99b67a19d9bea6768332"
+  integrity sha512-7DmWN/l3SHqCZn8iWik1qTkJq6p2j12Snmt94uNhD8dkZyR18k1rkRFaM6e04AyNAww+frNuUAupVHmnNMspPQ==
 
 markdownlint-cli2-formatter-default@0.0.5, markdownlint-cli2-formatter-default@^0.0.5:
   version "0.0.5"
