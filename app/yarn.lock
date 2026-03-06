@@ -74,11 +74,6 @@ braces@^3.0.3:
   dependencies:
     fill-range "^7.1.1"
 
-chalk@5.6.2:
-  version "5.6.2"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.6.2.tgz#b1238b6e23ea337af71c7f8a295db5af0c158aea"
-  integrity sha512-7NzBL0rN6fMUW+f7A6Io4h40qQlG+xGmtMxfbnH/K7TAtt8JQWVQK+6g0UXKMeVJoyV5EkkNsErQ8pVD3bLHbA==
-
 character-entities-legacy@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/character-entities-legacy/-/character-entities-legacy-3.0.0.tgz#76bc83a90738901d7bc223a9e93759fdd560125b"
@@ -320,12 +315,11 @@ markdownlint-cli2-formatter-junit@^0.0.14:
   dependencies:
     junit-report-builder "5.1.1"
 
-markdownlint-cli2-formatter-pretty@^0.0.9:
-  version "0.0.9"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-pretty/-/markdownlint-cli2-formatter-pretty-0.0.9.tgz#021a1596698fde9d384c1ee8450af6805d4f80d8"
-  integrity sha512-5zuqYonXTUu7yLP+f0ERcYu3c6tlWJVMkp+ovo6RNEvy8NEpkdUXRBAObbuJVSE3bJcaqderebfLSlEdUK8HDg==
+markdownlint-cli2-formatter-pretty@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-pretty/-/markdownlint-cli2-formatter-pretty-0.0.10.tgz#a6510c9891a670233e5195bb79d707018bd29c8f"
+  integrity sha512-RyG0KM96sQXWIvQwOt0b7ediw5B9uf1XxiNP9XMpqgLVK7EsFKofxvu+jAxGhGB4V0H8YkPf+3ULWIHhbW6A5A==
   dependencies:
-    chalk "5.6.2"
     terminal-link "5.0.0"
 
 markdownlint-cli2-formatter-summarize@^0.0.8:
