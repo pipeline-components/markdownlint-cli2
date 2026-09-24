@@ -257,12 +257,12 @@ jsonpointer@5.0.1:
   resolved "https://registry.yarnpkg.com/jsonpointer/-/jsonpointer-5.0.1.tgz#2110e0af0900fd37467b5907ecd13a7884a1b559"
   integrity sha512-p/nXbhSEcu3pZRdkW1OfJhpsVtW1gd4Wa1fnQc9YLiTfAjn0312eMKimbdIQzuZl9aa9xUGaRlP9T/CJE/ditQ==
 
-junit-report-builder@5.1.1:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-5.1.1.tgz#e4f34cc78515554b06d1132ce4bf5cb2b6244d39"
-  integrity sha512-ZNOIIGMzqCGcHQEA2Q4rIQQ3Df6gSIfne+X9Rly9Bc2y55KxAZu8iGv+n2pP0bLf0XAOctJZgeloC54hWzCahQ==
+junit-report-builder@5.1.2:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/junit-report-builder/-/junit-report-builder-5.1.2.tgz#1740c1cfbb67b35b64c50a376105c6c77d0d4295"
+  integrity sha512-HzvLbEQcoqN2LmGnloShxu2hLadi/rkOTU3zt61UeMICLS0wGDvbf8neIi6+bGkxMnAePIcFMFnbqV+r6YvwxA==
   dependencies:
-    lodash "^4.17.21"
+    lodash "^4.18.1"
     make-dir "^3.1.0"
     xmlbuilder "^15.1.1"
 
@@ -280,7 +280,7 @@ linkify-it@^6.0.0:
   dependencies:
     uc.micro "^3.0.0"
 
-lodash@^4.17.21:
+lodash@^4.18.1:
   version "4.18.1"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.18.1.tgz#ff2b66c1f6326d59513de2407bf881439812771c"
   integrity sha512-dMInicTPVE8d1e5otfwmmjlxkZoUpiVLwyeTdUsi/Caj/gfzzblBcCE5sRHV/AsjuCmxWrte2TNGSYuCeCq+0Q==
@@ -319,12 +319,12 @@ markdownlint-cli2-formatter-json@^0.0.10:
   resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-json/-/markdownlint-cli2-formatter-json-0.0.10.tgz#96b69d21b6fa8694a0972479122116b5e81d8f35"
   integrity sha512-gSmKDntKWRjzgxVSD53ewMIVV/GMPNP4Va6g8drOTCDjdQJ8eF6eVJe794Dkc/3oPhGkpL0UE/xDlJwB4uR96Q==
 
-markdownlint-cli2-formatter-junit@^0.0.14:
-  version "0.0.14"
-  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.14.tgz#62856f839daf0d922b59d3ddc221dcbe51484dbb"
-  integrity sha512-q+aScBwPMKk97WiPSZ9f+Un4PvGkbII5LRVhnGX5yWYr8iPbaHqfNASaNl1om92ceJlS3OD+04ghtR3K2DZR3w==
+markdownlint-cli2-formatter-junit@^0.0.15:
+  version "0.0.15"
+  resolved "https://registry.yarnpkg.com/markdownlint-cli2-formatter-junit/-/markdownlint-cli2-formatter-junit-0.0.15.tgz#b5eeb218d7e184c936385994b7ce574e0a848114"
+  integrity sha512-XIRvpyKl98DW6Pqib+8AqkvbH78j6FxSccFp4BnB+OcHpyx3jbg08y/y+w02JR++SbxzZWIOlYeLxaF2g+IbaA==
   dependencies:
-    junit-report-builder "5.1.1"
+    junit-report-builder "5.1.2"
 
 markdownlint-cli2-formatter-pretty@^0.0.10:
   version "0.0.10"
